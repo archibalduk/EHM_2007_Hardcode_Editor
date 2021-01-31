@@ -1,0 +1,9 @@
+#ifndef COMMON_H
+#define COMMON_H
+
+enum ENUM_DIMENSIONS {
+    MIN_LIST_WIDGET_WIDTH = 260,
+    MAX_LIST_WIDGET_WIDTH = 260
+};
+
+#endif // COMMON_H
