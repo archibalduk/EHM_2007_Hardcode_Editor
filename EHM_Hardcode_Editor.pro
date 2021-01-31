@@ -62,3 +62,6 @@ HEADERS  += editor.h \
     common.h
 
 FORMS    += editor.ui
+
+DISTFILES += \
+    tbl.ico
